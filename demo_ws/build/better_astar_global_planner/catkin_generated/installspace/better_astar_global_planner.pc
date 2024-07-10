@@ -1,0 +1,8 @@
+prefix=/home/puppet/demo_ws/install
+
+Name: better_astar_global_planner
+Description: Description of better_astar_global_planner
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

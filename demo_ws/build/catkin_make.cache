@@ -1,0 +1,2 @@
+better_astar_global_planner:mbot_description:mbot_gazebo:mbot_navigation
+-DCATKIN_DEVEL_PREFIX=/home/puppet/demo_ws/devel -DCMAKE_INSTALL_PREFIX=/home/puppet/demo_ws/install -G Unix Makefiles
